@@ -39,6 +39,8 @@ The core logic focuses on three primary security vectors:
 1.  **Workflow Import:** Import the provided JSON export into a local or cloud n8n instance.
 2.  **API Credentials:** Configure Google Cloud Console for Gmail API and GitHub Developer Settings for repository access.
 3.  **Variable Tuning:** Adjust the `anomalyScore` weights within the JavaScript node to fit specific security requirements.
+<img width="1492" height="638" alt="image" src="https://github.com/user-attachments/assets/2838eeff-b9c8-41d5-bc73-69d1cf84cbb5" />
+
 
 ---
 *This project is developed as a technical demonstration of API orchestration, data normalization, and autonomous monitoring logic.*
